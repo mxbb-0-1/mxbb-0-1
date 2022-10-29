@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blueberry-43
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Integrated M tech E
+- 🌱 I’m currently learning Integrated M tech SE
 - 💞️ I’m looking to collaborate on Web developments
 - 📫 How to reach me -Email me in anselmsherwin.w2020@vitstudent.ac.in
 
