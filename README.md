@@ -14,9 +14,9 @@
 
 ## Proficiencies
 - **Cloud Computing**: GCP, Azure
-- **Programming Languages**: Python (scikit-learn, NumPy, SciPy, pandas), C++, Excel
+- **Programming Languages**: Java, Python (scikit-learn, NumPy, SciPy, pandas), C++
 - **Databases**: SQL (NoSQL, MySQL)
-- **Other**: Java, NLP (Natural Language Processing)
+- **Other**: NLP (Natural Language Processing), AI (Artifical Intelligence) concepts
 
 
 ## Certifications
