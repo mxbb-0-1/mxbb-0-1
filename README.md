@@ -12,7 +12,6 @@
 
 ---
 
-Feel free to tweak this further to match your personal style!
 ## Proficiencies
 - **Cloud Computing**: GCP, Azure
 - **Programming Languages**: Java, Python (scikit-learn, NumPy, SciPy, pandas), C++
